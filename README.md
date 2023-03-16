@@ -1,7 +1,7 @@
 # numer-system-convertion 💻🖥️  
 A code for converting number system was built with using c++ 🥇
 
-## There is four files😄   
+## There is four folders😄   
 
 🟧 Folder one is callled 'Binary':  
 To convert binary to decimal, octal and hexadecimal.  
