@@ -1,4 +1,4 @@
-# numer-system-convertion 💻🖥️  
+# number-system-convertion 💻🖥️  
 A code for converting number system was built with using c++ 🥇
 
 ## There is four folders😄   
