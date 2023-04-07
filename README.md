@@ -5,24 +5,26 @@ The code can convert the floating numbers not only interger numbers 🤯💥
 ## There is four folders😄   
 
 🟧 Folder one is callled 'Binary':  
-To convert binary to decimal, octal and hexadecimal.  
-###From Binary To Decimal###  
+### To convert binary to decimal, octal and hexadecimal.  
+
+##From Binary To Decimal##  
 ![BinToDec](https://user-images.githubusercontent.com/74355967/230619064-559816f5-aa90-4525-80ca-a84cf1a04b20.png)  
 
-###From Binary To Octal###  
+##From Binary To Octal##  
 ![BinToOct](https://user-images.githubusercontent.com/74355967/230619132-392b4444-25ff-4307-8452-aaee2712a08a.png)  
 
-###From Binary To HexaDecimal###  
+##From Binary To HexaDecimal##   
 ![BinToHex](https://user-images.githubusercontent.com/74355967/230619199-b25fafc2-df05-47ec-88bf-d987467b8bc0.png)  
 
-To convert decimal, octal and hexadecimal to binary.  
-###Decimal To Binary###  
+### To convert decimal, octal and hexadecimal to binary.  
+
+##Decimal To Binary##  
 ![DecToBin](https://user-images.githubusercontent.com/74355967/230619347-0bb74dfa-c9fb-4080-bad4-810f1f22706e.png)  
 
-###Octal To Binary###    
+##Octal To Binary##    
 ![OctToBin](https://user-images.githubusercontent.com/74355967/230619545-9a946f24-edf9-4f7c-892b-25f7128076db.png)  
 
-###HexaDecimal To Binary###  
+##HexaDecimal To Binary##    
 ![HexToBin](https://user-images.githubusercontent.com/74355967/230619408-c2f2875c-e467-479f-8e5d-0af3e0a558b6.png)  
 
 🟥 Folder two is called 'Decimal':  
