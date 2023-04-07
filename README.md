@@ -8,8 +8,8 @@ The code can convert the floating numbers not only interger numbers 🤯💥
 ### To convert binary to decimal, octal and hexadecimal:    
 
 ![BinToDec](https://user-images.githubusercontent.com/74355967/230619064-559816f5-aa90-4525-80ca-a84cf1a04b20.png)  
-
-![BinToOct](https://user-images.githubusercontent.com/74355967/230619132-392b4444-25ff-4307-8452-aaee2712a08a.png)  
+  
+![BinToOct](https://user-images.githubusercontent.com/74355967/230620473-f8dfa788-7428-478a-bc30-faba4153eab5.png)  
 
 ![BinToHex](https://user-images.githubusercontent.com/74355967/230619199-b25fafc2-df05-47ec-88bf-d987467b8bc0.png)  
 
